@@ -1,5 +1,4 @@
 # How to stop server members from posting links
-
 Use the "linkspam" feature on Carl-bot to automatically delete any link posting by any user who **does not** have any role assigned:
 #1- Add Carl-bot to your server: https://carl.gg/
 #2- Run the command `!linkspam` to check linkspam's current settings.
