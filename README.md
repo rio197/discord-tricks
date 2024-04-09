@@ -1,0 +1,2 @@
+# discord-tricks
+Discord Tricks
